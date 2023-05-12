@@ -24,4 +24,4 @@ yarn-error.log*
 
 .history
 .ionide
-
+.package.json
